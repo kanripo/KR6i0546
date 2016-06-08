@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 840
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0546_T_000-0910c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0546_T_001-0910c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -146,7 +146,7 @@ No. 840 [No. 841]¶
 此三千大千世界六種震動，空中天樂百千¶
 萬類不鼓自嗚，諸妙天花繽紛亂墮，無量¶
 天子無數聲聞，聞此法音覩斯瑞應，皆發阿¶
-耨多羅三藐三菩提心，百千俱胝新學菩薩，¶
+耨多羅三藐三菩提心，百千俱𦙁新學菩薩，¶
 同時證得無生法忍。¶
 
 爾時阿難即從座起，合掌恭敬而白佛言：「今¶
